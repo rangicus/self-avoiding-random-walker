@@ -1,4 +1,4 @@
 {
-    "name": "Project Template",
-    "desc": "A template for prototyping future projects."
+    "name": "Self-Avoiding Random Walker",
+    "desc": "A random walker which will refrain from colliding with itself."
 }
